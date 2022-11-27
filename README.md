@@ -2,12 +2,12 @@
 <br/>
 
 #### 스터디 계획
-1주차(2022.11.28 ~ 2022.12.04) - COS Pro 2급 Python 기출문제 1차<br/>
-2주차(2022.12.05 ~ 2022.12.11) - COS Pro 2급 Python 기출문제 2차<br/>
-3주차(2022.12.12 ~ 2022.12.18) - COS Pro 2급 Python 기출문제 3차<br/>
-4주차(2022.12.19 ~ 2022.12.25) - COS Pro 2급 Python 기출문제 4차<br/>
-5주차(2022.12.26 ~ 2023.01.01) - COS Pro 2급 Python 기출문제 5차<br/>
-6주차(2023.01.02 ~ 2023.01.06) - COS Pro 2급 Python 기출문제 6차<br/>
+[1주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/1)(2022.11.28 ~ 2022.12.04) - COS Pro 2급 Python 기출문제 1차<br/>
+[2주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/2)(2022.12.05 ~ 2022.12.11) - COS Pro 2급 Python 기출문제 2차<br/>
+[3주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/3)(2022.12.12 ~ 2022.12.18) - COS Pro 2급 Python 기출문제 3차<br/>
+[4주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/4)(2022.12.19 ~ 2022.12.25) - COS Pro 2급 Python 기출문제 4차<br/>
+[5주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/5)(2022.12.26 ~ 2023.01.01) - COS Pro 2급 Python 기출문제 5차<br/>
+[6주차](https://github.com/yeonwoo1125/cospro-python-level2-study/milestone/6)(2023.01.02 ~ 2023.01.06) - COS Pro 2급 Python 기출문제 6차<br/>
 
 <br/><br/>
 #### 스터디 멤버
@@ -19,4 +19,4 @@
 <br/><br/>
 ---
 - [COS Pro란?](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)
-- [goorm COS Pro 2급 Python 모의고사](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
+- [goorm COS Pro 2급 Python 기출문제](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
