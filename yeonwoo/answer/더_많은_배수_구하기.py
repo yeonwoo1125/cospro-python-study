@@ -30,4 +30,4 @@ if __name__ == '__main__':
   arr = [2, 3, 6, 9, 12, 15, 10, 20, 22, 25]
   ret = solution(arr)
 
-  print("solution 함수의 반환 값은", ret, "입니다.")
+  print("solution 함수의 반환 값은", ret, "입니다.") 
