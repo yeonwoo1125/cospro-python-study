@@ -1,4 +1,4 @@
-def solution(attack, recovery, hp):
+def solution(attack, recovery, hp): 
 	count = 0
 	while(True):
 		count += 1
