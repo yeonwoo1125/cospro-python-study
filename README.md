@@ -27,6 +27,7 @@
 ---
 - [COS Pro란?](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)
 - [goorm COS Pro 2급 Python 기출문제](https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
+- [goorm COS Pro 1급 Python 기출문제](https://edu.goorm.io/lecture/17299/cos-pro-1%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python)
 
 <br/><br/>
 ---
